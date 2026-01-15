@@ -2,3 +2,4 @@
 - Star Wars Toy #1
 - Star Wars Toy #2
 - Giant teddy bear
+- Sonic Racing: CrossWorlds for Nintendo Switch 1
