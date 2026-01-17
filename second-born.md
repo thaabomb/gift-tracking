@@ -1,6 +1,7 @@
 # 2026 Birthday
 - Not having to read on the night of their birthday
 - Getting to pick the movie on Movie Night the Friday of their birthday week
+- Getting to pick their own dinner on birthday night.
 - Star Wars Clone Captain Rex Mech Force Suit
   - https://a.co/d/4H718FV
 - Star Wars Micro Galaxy Squadron Republic Attack Force Bundle
