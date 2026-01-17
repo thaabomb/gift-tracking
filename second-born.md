@@ -9,5 +9,6 @@
   - Example: https://a.co/d/82B5NmK
 - Sonic Racing: CrossWorlds for Nintendo Switch 1
   - https://a.co/d/0GeJwp1
+  - Don't buy this from Amazon, I'll buy it on the Switch.
 - MixMasher action figures
   - Example: https://a.co/d/aKXSbYu
