@@ -8,4 +8,5 @@
 - Giant teddy bear
 - Sonic Racing: CrossWorlds for Nintendo Switch 1
   - https://a.co/d/0GeJwp1
-- Mix and Match action figures
+- MixMasher action figures
+  - Example: https://a.co/d/aKXSbYu
