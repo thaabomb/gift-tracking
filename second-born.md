@@ -6,6 +6,7 @@
 - Star Wars Micro Galaxy Squadron Republic Attack Force Bundle
   - https://a.co/d/4A2jXp2
 - Giant teddy bear
+  - Example: https://a.co/d/82B5NmK
 - Sonic Racing: CrossWorlds for Nintendo Switch 1
   - https://a.co/d/0GeJwp1
 - MixMasher action figures
