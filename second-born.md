@@ -1,3 +1,5 @@
+
+
 # 2026 Birthday
 - Not having to read on the night of their birthday
 - Getting to pick the movie on Movie Night the Friday of their birthday week
@@ -13,3 +15,5 @@
   - Don't buy this from Amazon, I'll buy it on the Switch.
 - MixMasher action figures
   - Example: https://a.co/d/aKXSbYu
+- Samsung Galaxy A9+ tablet
+  - https://a.co/d/06uxARk
