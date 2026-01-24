@@ -17,3 +17,5 @@
   - Example: https://a.co/d/aKXSbYu
 - Samsung Galaxy A9+ tablet
   - https://a.co/d/06uxARk
+- Wing Gundam Action Figure
+  - https://a.co/d/5V2UFtn
