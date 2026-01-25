@@ -19,3 +19,5 @@
   - https://a.co/d/06uxARk
 - Wing Gundam Action Figure
   - https://a.co/d/5V2UFtn
+- Gundam Epyon Action Figure
+  - https://a.co/d/b9M1jiJ
