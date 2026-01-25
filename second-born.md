@@ -1,5 +1,3 @@
-
-
 # 2026 Birthday
 - Not having to read on the night of their birthday
 - Getting to pick the movie on Movie Night the Friday of their birthday week
@@ -21,3 +19,4 @@
   - https://a.co/d/5V2UFtn
 - Gundam Epyon Action Figure
   - https://a.co/d/b9M1jiJ
+- Amazon Gift Cards
