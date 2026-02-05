@@ -22,5 +22,6 @@
 - Amazon Gift Cards
 - Racecar Onesie
   - https://a.co/d/c6rzcrV
-- Guinness Book of World Records 2026
-  - 
+- ~Guinness Book of World Records 2026~
+  - https://a.co/d/0fGjVztN
+  - Purchased for $16.17 after tax on 2/5/2026 (it was half off).
