@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cruise Route</name>
+
+    <Style id="brightRedLine">
+      <LineStyle>
+        <!-- KML color format is aabbggrr -->
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+
+    <Placemark>
+      <name>Lost Plantation → Port Canaveral → Nassau → CocoCay → Return</name>
+      <styleUrl>#brightRedLine</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          <!-- Lost Plantation Golf Course -->
+          -81.2487,32.2850,0
+          <!-- Port Canaveral -->
+          -80.6081,28.4100,0
+          <!-- Junkanoo Beach, Nassau -->
+          -77.3500,25.0780,0
+          <!-- CocoCay -->
+          -77.5364,25.8150,0
+          <!-- Port Canaveral (return) -->
+          -80.6081,28.4100,0
+          <!-- Lost Plantation Golf Course (return) -->
+          -81.2487,32.2850,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+  </Document>
+</kml>
