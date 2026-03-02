@@ -12,7 +12,7 @@
 - On the saturday after her birthday, new auspicious restaurant called bread and butter, followed by Tybee.
 - Book: _Dear Debbie_ by Freida McFadden
 - Custom photo card
--- Poem
+  - Poem
 
 # 2026 Valentines Day
 - Custom photo card
