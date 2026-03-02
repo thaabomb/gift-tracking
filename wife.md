@@ -3,6 +3,7 @@
 - mex food
 - in and out
 - acai bowls
+- that Chinese place
 
 # 2026 Birthday
 - Quince purse
