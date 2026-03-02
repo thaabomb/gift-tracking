@@ -10,6 +10,7 @@
 - Book: _Anatomy of an Alibi_ by Asley Elston
 - DO NOT BUY _First Time Caller_. She already has that (and she doesn't like it).
 - On the saturday after her birthday, new auspicious restaurant called bread and butter, followed by Tybee.
+- Book: _Dear Debbie_ by Freida McFadden
 
 # 2026 Valentines Day
 - Custom photo card
