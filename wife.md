@@ -1,3 +1,5 @@
+walnuts are her least favorite nut
+
 # Cali
 - poke bowls
 - mex food
