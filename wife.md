@@ -1,3 +1,8 @@
+# 2027 Birthday
+- make sure Granny doesn't visit that weekend
+- buy her a cake
+- make plans to do something fun for her birthday
+
 walnuts are her least favorite nut
 
 # Cali
