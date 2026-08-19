@@ -1,5 +1,6 @@
 # 2026 Xmas
 - Weston wants a big box of snacks
+- Cora wants a big box of snacks
 
 # 2026 Birthday
 - Not having to read on the night of their birthday
