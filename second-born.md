@@ -2,6 +2,8 @@
 - Weston wants a big box of snacks
 - Guinness World Record Gamer's Edition
   - https://a.co/d/09QvTsLm
+- Meat thermometer
+  - https://a.co/d/03uN93GX
 
 # 2026 Birthday
 - Not having to read on the night of their birthday
