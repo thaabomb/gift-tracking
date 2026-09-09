@@ -4,6 +4,8 @@
   - https://a.co/d/09QvTsLm
 - Meat thermometer
   - https://a.co/d/03uN93GX
+- Battleship
+  - https://a.co/d/0ah5Myl0
 
 # 2026 Birthday
 - Not having to read on the night of their birthday
