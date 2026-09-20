@@ -6,6 +6,8 @@
   - https://a.co/d/03uN93GX
 - Battleship
   - https://a.co/d/0ah5Myl0
+- RC Plane
+  - https://a.co/d/02Sc77r9
 
 # 2026 Birthday
 - Not having to read on the night of their birthday
