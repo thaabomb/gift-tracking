@@ -1,5 +1,5 @@
 # 2026 Xmas
-- Weston wants a big box of snacks
+- A big box of snacks
 - Guinness World Record Gamer's Edition
   - https://a.co/d/09QvTsLm
 - Meat thermometer
