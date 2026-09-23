@@ -8,6 +8,8 @@
   - https://a.co/d/0ah5Myl0
 - RC Plane
   - https://a.co/d/02Sc77r9
+- Paw Patrol the Dino Movie Chase Dino Rescue Cruiser
+  - https://a.co/d/00EAq2EJ
 
 # 2026 Birthday
 - Not having to read on the night of their birthday
