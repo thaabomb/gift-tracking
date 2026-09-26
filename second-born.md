@@ -1,5 +1,6 @@
 # 2026 Xmas
 - A big box of snacks
+  - Purchased by Sue
 - Guinness World Record Gamer's Edition
   - https://a.co/d/09QvTsLm
 - Meat thermometer
@@ -8,6 +9,7 @@
   - https://a.co/d/0ah5Myl0
 - RC Plane
   - https://a.co/d/02Sc77r9
+  - Purchased by Sue
 - Paw Patrol the Dino Movie Chase Dino Rescue Cruiser
   - https://a.co/d/00EAq2EJ
 
