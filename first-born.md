@@ -12,6 +12,8 @@
   - https://a.co/d/026XaPQo
 - MGA's Mini Verse
   - e.g. https://a.co/d/0d35hYmP
-  - Purchased by Courtney
+    - Purchased by Courtney
+- Mini Verse Vending Machine
+  - https://a.co/d/01kkTA6f
 
 
