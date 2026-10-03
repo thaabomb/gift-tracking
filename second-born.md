@@ -12,6 +12,8 @@
   - Purchased by Sue
 - Paw Patrol the Dino Movie Chase Dino Rescue Cruiser
   - https://a.co/d/00EAq2EJ
+- Newton's Cradle
+  - https://a.co/d/0hm5Btot
 
 # 2026 Birthday
 - Not having to read on the night of their birthday
