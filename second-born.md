@@ -14,7 +14,7 @@
   - https://a.co/d/00EAq2EJ
 - Newton's Cradle
   - https://a.co/d/0hm5Btot
-- Star WarsClone Captain Rex Mech Suit
+- Star Wars Clone Captain Rex Mech Force Suit
   - https://a.co/d/00a3tA2W
 
 # 2026 Birthday
