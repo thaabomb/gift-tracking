@@ -14,6 +14,8 @@
   - https://a.co/d/00EAq2EJ
 - Newton's Cradle
   - https://a.co/d/0hm5Btot
+- Star WarsClone Captain Rex Mech Suit
+  - https://a.co/d/00a3tA2W
 
 # 2026 Birthday
 - Not having to read on the night of their birthday
