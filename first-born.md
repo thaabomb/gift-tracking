@@ -15,5 +15,11 @@
     - Purchased by Courtney
 - Mini Verse Vending Machine
   - https://a.co/d/01kkTA6f
+- Squishies
+- Flare pants
+- cute skirts
+- long shirts
+- long sweatshirts
+- non creepy babydoll
 
 
