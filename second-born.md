@@ -16,6 +16,7 @@
   - https://a.co/d/0hm5Btot
 - Star Wars Clone Captain Rex Mech Force Suit
   - https://a.co/d/00a3tA2W
+- Pogo Stick
 
 # 2026 Birthday
 - Not having to read on the night of their birthday
