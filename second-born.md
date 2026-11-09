@@ -17,6 +17,7 @@
 - Star Wars Clone Captain Rex Mech Force Suit
   - https://a.co/d/00a3tA2W
 - Pogo Stick
+- A drone (from Santa)
 
 # 2026 Birthday
 - Not having to read on the night of their birthday
