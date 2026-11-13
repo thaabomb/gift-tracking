@@ -3,6 +3,7 @@
   - Purchased by Sue
 - Guinness World Record Gamer's Edition
   - https://a.co/d/09QvTsLm
+  - Purchased by Dad
 - Meat thermometer
   - https://a.co/d/03uN93GX
 - Battleship
