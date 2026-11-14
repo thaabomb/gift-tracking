@@ -23,5 +23,6 @@
 - long shirts
 - long sweatshirts
 - non creepy babydoll
+- nail glue
 
 
