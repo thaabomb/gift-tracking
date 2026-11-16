@@ -3,21 +3,27 @@
   - Purchased by Sue
 - Guinness World Record Gamer's Edition
   - https://a.co/d/09QvTsLm
-  - Purchased by Dad
+  - Purchased by me
 - Meat thermometer
   - https://a.co/d/03uN93GX
+  - Purchased by me
 - Battleship
   - https://a.co/d/0ah5Myl0
+  - Purchased by me
 - RC Plane
   - https://a.co/d/02Sc77r9
   - Purchased by Sue
 - Paw Patrol the Dino Movie Chase Dino Rescue Cruiser
   - https://a.co/d/00EAq2EJ
+  - Purchased by me
 - Newton's Cradle
   - https://a.co/d/0hm5Btot
+  - Purchased by me
 - Star Wars Clone Captain Rex Mech Force Suit
   - https://a.co/d/00a3tA2W
+  - Purchased by me
 - Pogo Stick
+  - Purchased by me
 - A drone (from Santa)
 
 # 2026 Birthday
